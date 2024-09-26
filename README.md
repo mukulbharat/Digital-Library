@@ -2,10 +2,10 @@
 This Spring Boot application provides a comprehensive digital library system, managing books, authors, users, and orders. It ensures efficient book loaning, tracking, and notification services.
 Features
 Library Service
-Book management 
-Author management
-User management
-Order management
+Book management (create, update, delete)
+Author management (create, update, delete)
+User management (create, update, delete)
+Order management (create, update, delete)
 Book search by name or ISBN
 User validation and loan eligibility check
 Book availability tracking
